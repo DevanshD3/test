@@ -1,5 +1,7 @@
 name=input()
 if name== "stuti":
-    print("fuck off")
+    print("aunty")
 else:
-    print("namaste")
+    print("namast")
+for i in range (6):
+    print(i)
